@@ -1,0 +1,12 @@
+{
+  "name": "kaafi-business",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Business & Inventory Management System with POS, Purchasing, and Reporting",
+  "scripts": {
+    "start": "npm start --prefix backend",
+    "dev": "npm run dev --prefix backend",
+    "test": "npm test --prefix backend",
+    "install:backend": "npm install --prefix backend"
+  }
+}
